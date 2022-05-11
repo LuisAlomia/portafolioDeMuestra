@@ -11,7 +11,7 @@
 .header__img {
   background: url(../img/patron.png), repeat;
   padding-top: 13rem;
-  width: 30rem; /*30*/
+  width: 30rem;
 }
 
 .header__img img {
